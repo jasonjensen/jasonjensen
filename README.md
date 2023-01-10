@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work at the Bank of Canada applying my **developer** and **social scientist** skillset.
+I work at the Bank of Canada, applying my **developer** and **social scientist** skillset.
 
 ---
 
